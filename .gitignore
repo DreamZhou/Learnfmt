@@ -1,0 +1,6 @@
+Learnfmt/Learnfmt.VC.VC.opendb
+Learnfmt/Learnfmt.VC.db
+*.obj
+*.tlog
+Learnfmt/Debug/
+Learnfmt/.vs/

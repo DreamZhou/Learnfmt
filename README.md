@@ -1,3 +1,3 @@
 # Learnfmt
 
-[fmtlib]:(https://github.com/fmtlib/fmt)学习笔记
+[fmtlib]:(https://github.com/fmtlib/fmt) 学习笔记
